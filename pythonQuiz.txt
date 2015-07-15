@@ -1,0 +1,31 @@
+Question #10: What gets printed?
+x = 4.5
+y = 2
+print x//y
+
+2.0 - correct
+description:
+this is truncating division. The remainder is dropped.
+
+Question #12: What gets printed?
+x = True
+y = False
+z = False
+
+if x or y and z:
+    print "yes"
+else:
+    print "no"
+
+yes - correct
+description:
+AND is higher precedence than OR in python and is evaluated first
+
+http://www.mypythonquiz.com/question.php?qid=181
+
+
+
+
+
+
+
