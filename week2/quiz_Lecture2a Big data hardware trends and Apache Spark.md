@@ -9,7 +9,7 @@ Which of the following properties does modern hardware for big data have:
 
  Uses premium hardware  Uses consumer grade hardware  Uses complex hardware  Uses complex software  Easy to add capacity
 Uses consumer grade hardware, Uses complex software, Easy to add capacity, - correct
-Note: Make sure you select all of the correct options¡ªthere may be more than one!
+Note: Make sure you select all of the correct optionsÂ¡Âªthere may be more than one!
 
 
 USING DIVIDE AND CONQUER  (1/1 point)
@@ -17,7 +17,7 @@ What are some of the challenges of using divide and conquer:
 
  Moving data is very expensive  Using a single machine is faster than multiple machines  Having many machines means having to deal with many failures  Having many machines means having to deal with slow machines  Using hash tables for very large documents works well
 Moving data is very expensive, Having many machines means having to deal with many failures, Having many machines means having to deal with slow machines, - correct
-Note: Make sure you select all of the correct options¡ªthere may be more than one!
+Note: Make sure you select all of the correct optionsÂ¡Âªthere may be more than one!
 
 
 MAP REDUCE  (1/1 point)
@@ -25,7 +25,7 @@ Which of the following problems does a MapReduce implementation handle?
 
  Recovering from machine failures  Shuffling data between the Map and Reduce functions  Running the Map and Reduce functions on many machines  Recovering from slow machines
 Recovering from machine failures, Shuffling data between the Map and Reduce functions, Running the Map and Reduce functions on many machines, Recovering from slow machines, - correct
-Note: Make sure you select all of the correct options¡ªthere may be more than one!
+Note: Make sure you select all of the correct optionsÂ¡Âªthere may be more than one!
 
 
 MAP REDUCE AND SPARK DIFFERENCES  (1/1 point)
@@ -33,4 +33,4 @@ Spark is often faster than a traditional MapReduce implementation because:
 
  It sends less data over the network  Results do not need to be written to disk  It detects machine failures more quickly  It replicates the output of each task to recover from failures quickly
 Results do not need to be written to disk, - correct
-Note: Make sure you select all of the correct options¡ªthere may be more than one!
+Note: Make sure you select all of the correct optionsÂ¡Âªthere may be more than one!
