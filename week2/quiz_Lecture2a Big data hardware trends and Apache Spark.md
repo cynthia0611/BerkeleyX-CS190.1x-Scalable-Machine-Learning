@@ -1,4 +1,5 @@
 BIG DATA TOOLS  (1/1 point)
+
 Why is using traditional analysis tools for big data a poor choice?
 
  Storage is becoming less expensive.  
@@ -8,6 +9,7 @@ Why is using traditional analysis tools for big data a poor choice?
 
 
 MODERN BIG DATA HARDWARE  (1/1 point)
+
 Which of the following properties does modern hardware for big data have:
 
  Uses premium hardware  
@@ -18,6 +20,7 @@ Which of the following properties does modern hardware for big data have:
 Uses consumer grade hardware, Uses complex software, Easy to add capacity, - correct
 
 USING DIVIDE AND CONQUER  (1/1 point)
+
 What are some of the challenges of using divide and conquer:
 
  Moving data is very expensive  
@@ -28,6 +31,7 @@ What are some of the challenges of using divide and conquer:
 Moving data is very expensive, Having many machines means having to deal with many failures, Having many machines means having to deal with slow machines, - correct
 
 MAP REDUCE  (1/1 point)
+
 Which of the following problems does a MapReduce implementation handle?
 
  Recovering from machine failures  
@@ -37,6 +41,7 @@ Which of the following problems does a MapReduce implementation handle?
 Recovering from machine failures, Shuffling data between the Map and Reduce functions, Running the Map and Reduce functions on many machines, Recovering from slow machines, - correct
 
 MAP REDUCE AND SPARK DIFFERENCES  (1/1 point)
+
 Spark is often faster than a traditional MapReduce implementation because:
 
  It sends less data over the network  
